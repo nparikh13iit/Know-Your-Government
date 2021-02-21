@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="information">Information</string>
+    <string name="location">Location</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="powered_by">Powered By</string>
+    <string name="google_civic_information_api">Google Civic Information API</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2020_ninad_parikh">© 2020, Ninad Parikh</string>
+    <string name="seperator">seperator</string>
+    <string name="official_photo">Official Photo</string>
+    <string name="address">Address:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="partylogo">partylogo</string>
+    <string name="youtube">youtube</string>
+    <string name="phone">Phone:</string>
+    <string name="no_data_for_location">No Data For Location</string>
+</resources>
